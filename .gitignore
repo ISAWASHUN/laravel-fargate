@@ -1,0 +1,4 @@
+**/.terraforce/*
+*.tfstate
+*.tfstate.*
+*.tfvars
